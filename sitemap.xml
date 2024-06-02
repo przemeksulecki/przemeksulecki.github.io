@@ -3,15 +3,33 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://przemeksulecki.github.io/categories/</loc>
+    <loc>https://przemeksulecki.github.io/tags/initial/</loc>
+    <lastmod>2024-06-02T19:59:55+02:00</lastmod>
   </url>
   
   <url>
-    <loc>https://przemeksulecki.github.io/</loc>
+    <loc>https://przemeksulecki.github.io/posts/initial-post/</loc>
+    <lastmod>2024-06-02T19:59:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://przemeksulecki.github.io/posts/</loc>
+    <lastmod>2024-06-02T19:59:55+02:00</lastmod>
   </url>
   
   <url>
     <loc>https://przemeksulecki.github.io/tags/</loc>
+    <lastmod>2024-06-02T19:59:55+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://przemeksulecki.github.io/about/</loc>
+    <lastmod>2024-06-02T19:52:46+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://przemeksulecki.github.io/</loc>
+    <lastmod>2024-06-02T19:52:46+02:00</lastmod>
   </url>
   
 </urlset>
